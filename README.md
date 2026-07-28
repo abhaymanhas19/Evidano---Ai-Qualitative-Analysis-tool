@@ -1,4 +1,4 @@
-# [Evidano - Building an AI-Powered Qualitative Research Platform](www.evidano.com)
+# [Evidano - Building an AI-Powered Qualitative Research Platform](https://www.evidano.com)
 
  - **Role:** Ai Backend / Platform Engineer
  - **Duration:** ~3 years
