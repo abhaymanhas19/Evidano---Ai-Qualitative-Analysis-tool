@@ -1,9 +1,9 @@
 # Evidano - Building an AI-Powered Qualitative Research Platform
 
-**Role:** Ai Backend / Platform Engineer
-**Duration:** ~3 years
-**Domain:** AI SaaS · Qualitative & quantitative research tooling
-**Stack:** Python · Django · Django REST Framework · Celery · RabbitMQ · Redis · PostgreSQL · Django Channels · Docker · Kubernetes · Azure
+ - **Role:** Ai Backend / Platform Engineer
+ - **Duration:** ~3 years
+ - **Domain:** AI SaaS · Qualitative & quantitative research tooling
+- **Stack:** Python · Django · Django REST Framework · Celery · RabbitMQ · Redis · PostgreSQL · Django Channels · Docker · Kubernetes · Azure
 
 > **About this document.** This is a *technical case study*, not a code dump. The product is closed-source and commercially operated, so this document contains **no proprietary source code, no credentials, no internal hostnames, and no customer data**. Everything below describes architecture, engineering decisions, trade-offs, and outcomes — the parts of the work that are actually transferable.
 
