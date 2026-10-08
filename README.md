@@ -1,7 +1,7 @@
 # [Evidano - Building an AI-Powered Qualitative Research Platform](https://www.evidano.com)
 
  - **Role:** Ai Backend / Platform Engineer
- - **Duration:** ~3 years
+ - **Duration:** ~4 years
  - **Domain:** AI SaaS · Qualitative & quantitative research tooling
 - **Stack:** Python · Django · Django REST Framework · Celery · RabbitMQ · Redis · PostgreSQL · Django Channels · Docker · Kubernetes · Azure
 
